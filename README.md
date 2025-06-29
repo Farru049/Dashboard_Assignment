@@ -68,7 +68,8 @@ npm start
 ---
 
 ## Screenshots
-_Add screenshots of your dashboard here_
+![Dashboard Main](dashboard-frontend/public/dashboard.png)
+![Dashboard Filter Example](dashboard-frontend/public/Screenshot%202025-06-29%20235343.png)
 
 ---
 
