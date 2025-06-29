@@ -55,20 +55,6 @@ npm start
 
 ---
 
-## Deployment (Render + Vercel/Netlify)
-
-### Backend (Render/Railway/Heroku)
-- Push backend code to GitHub
-- Deploy as a Node.js web service
-- Set `MONGODB_URI` environment variable (use MongoDB Atlas)
-
-### Frontend (Vercel/Netlify)
-- Push `dashboard-frontend` to GitHub
-- Deploy as a React app
-- Update API URLs in frontend to point to your deployed backend
-
----
-
 ## API Endpoints
 - `GET /api/data` — Get data (supports filters as query params)
 - `GET /api/filters/:field` — Get unique values for a field (for filters)
